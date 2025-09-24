@@ -1,1 +1,3 @@
-## Simulación de un Cajero Automatico en Java 
+## Simulación de un Cajero Automatico
+- Desarrollado por **Rocio Molina**
+- Desarrollado en Java
